@@ -5,7 +5,7 @@ n=3
 print("The Fibonacci Series is : ")
 print(a)
 print(b)
-while(n<=20):
+while(n<=100):
     c=a+b
     print(c)
     a=b
